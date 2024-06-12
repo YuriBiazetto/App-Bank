@@ -64,6 +64,7 @@ Escolha a opção desejada:
         print('Escolha inválida!')
         opcoes(saldo)
 
+#login
 def login(dados_prontos):
     print('Login')
     sleep(1)
@@ -82,6 +83,7 @@ def login(dados_prontos):
             print('Saindo...')
             sleep(2)
 
+#criar nova conta
 def criar_conta():
     print('Criação de Nova Conta')
     sleep(1)
